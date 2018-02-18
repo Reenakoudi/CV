@@ -1,29 +1,44 @@
-## Your Name
+Reena Koudi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+I'm a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester. As a software tester, I have a good eye for detail, 
+analytical and problem solving skills using which I would now like to build things through coding. I want to be a part of an innovative products development where 
+I can further expand my knowledge in Full-Stack and Front-End development and design.
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Skills
 
-- Experience
-- Achievements
-- Evidence
+Analysis
 
-#### Another Skill
+I have worked on analyzing data generated from execution of automated scripts to understand the particular behaviour of an application. 
+Ability to analyze the given business situation and judge all the possible scenarios.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Communication
 
-## Education
+Having worked in an ERP sector there were situations where in I had to be the bridge between development and functional experts, 
+this provided with an opportunity to query the functional process and question the developer. I was exposed to working in a cross 
+module structure which demanded crisp and clear knowledge sharing between the team members where in interdependencies had to be 
+communicated to other team members and developers through frequent presentations.
 
-#### Makers Academy (start_date to end_date)
+
+Projects
+
+Project		        : ERP Finance(Finance- Controlling)
+SAP Module          : SAP FI-CO
+Project Description	: The SAP FI-CO Module main task is to do Planning. It facilitates coordination, monitoring and optimization 
+of all processes in an organization. It includes the functions necessary for effective cost and revenue controlling. It is also 
+called as management accounting and provides information for management decision-making.
+
+Project		        : ERP- Finance (Public Sector Management)
+SAP Module    	    : ERP-FIN-PSM 
+Project Description	: The SAP FI-PSM Module has the capability of meeting all the accounting and financial needs of an organization 
+related to Public sector. The PSM Module comprises several sub-modules as follows: Asset Accounting, Budget controls System, Material 
+Management, Sales Order, Purchase Order and integration with Controlling and Web Services.
+
+Education
+
+Makers Academy (February 2018 to May 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +49,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+Visveswaraiah Technological University(VTU), India (September 2006 to June 2010)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+-Bachelor of Engineering in Computer Science   
+-Grade : First Class 
+-Worked as an active member in the organising committee for tech festivals in the college.
 
-#### Any other qualifications
 
-## Experience
+Other qualifications
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Cetification in ISEB foundation level.
+
+Experience
+
+SAP Labs India,Bangalore (February 2011 to February 2012)    
+Software Tester
+Regression testing of SAP ERP Modules named SAP Finance and Controlling(FICO).
+Good understanding and working experience in Software Development Life Cycle (SDLC)
+Experience working in Agile environment (Scrum).
+
+
+
