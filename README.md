@@ -1,9 +1,10 @@
 <h2 align="center"> Reena Koudi </h2>
 
-<p align="center">
-[Skills](#skills) |
-[Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
-</p>
+<p align="center"> <a href='#skills'>Skills</a> |
+<a href='#projects'>Projects</a> |
+<a href='#education'>Education</a> |
+<a href='#experience'>Experience</a> |  
+<a href='#interests'>Interests</a> </p>
 
 
 I'm a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester. As a software tester, I have a good eye for detail,
