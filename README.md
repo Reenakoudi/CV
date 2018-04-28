@@ -33,7 +33,7 @@ communicated to other team members and developers through frequent presentations
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
 | nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
-| Notepad ([Github](https://github.com/Reenakoudi/Notepad))| Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS  | Created testing framework |
+| acebook-pinkfish ([Github](https://github.com/Reenakoudi/acebook-pinkfish))| Group project to recreate Facebook | Ruby on Rails, HTML/CSS  | RSpec |
 | Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
 | Airport ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
 | Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
