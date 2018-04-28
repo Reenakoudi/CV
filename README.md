@@ -1,7 +1,7 @@
 <h2 align="center"> Reena Koudi </h2>
 
-<p align="center"> <a href='#skills'>Skills</a> |
-<a href='#projects'>Projects</a> |
+<p align="center"> <a href='#projects'>Projects</a> |
+<a href='#skills'>Skills</a> |
 <a href='#education'>Education</a> |
 <a href='#experience'>Experience</a> |  
 <a href='#interests'>Interests</a> </p>
@@ -11,6 +11,18 @@ I'm a former software tester with a year of experience in the IT industry and a 
 analytical and problem solving skills using which I would now like to build things through coding. I want to be a part of an innovative products development in which
 I can further expand my knowledge in Full-Stack software development and design.
 
+
+
+
+## Projects
+
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
+| acebook-pinkfish ([Github](https://github.com/Reenakoudi/acebook-pinkfish))| Group project to recreate Facebook | Ruby on Rails, HTML/CSS  | RSpec |
+| Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
+| Airport ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
+| Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
 
 ## Skills
 
@@ -27,16 +39,6 @@ this provided with an opportunity to query the functional process and question t
 module structure which demanded crisp and clear knowledge sharing between the team members where in interdependencies had to be
 communicated to other team members and developers through frequent presentations.
 
-
-## Projects
-
-| Project       | Summary       | Technologies  | Testing |
-| ------------- |---------------| --------------|---------|
-| nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
-| acebook-pinkfish ([Github](https://github.com/Reenakoudi/acebook-pinkfish))| Group project to recreate Facebook | Ruby on Rails, HTML/CSS  | RSpec |
-| Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
-| Airport ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
-| Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
 
 ## Education
 
