@@ -8,9 +8,9 @@
 
 
 I'm an enthusiastic Full Stack Software Developer, who has had an amazing opportunity to immerse myself in the world of coding through Makers Academy's 16-week programming course.
-I have learnt the core concepts of programming and skill to rapidly pick up new languages and frameworks.
+I have learnt TDD to write better code and the skill to rapidly pick up new languages and frameworks.
 
-As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for detail, analytical and problem solving skills using which I would now like to develop and design solutions that would change people's lives for the better. I am most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practises taught at Makers.
+As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for detail, analytical and problem solving skills using which I would now like to develop and design solutions that would change people's lives for the better. I'm most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practices in software development.
 
 
 
@@ -22,7 +22,7 @@ As a former software tester with a year of experience in the IT industry and a c
 | nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
 | acebook-pinkfish ([Github](https://github.com/Reenakoudi/acebook-pinkfish))| Group project to recreate Facebook | Ruby on Rails, HTML/CSS  | RSpec |
 | Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
-| Airport ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
+| Airport   ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
 | Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
 
 ## Skills
