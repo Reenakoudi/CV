@@ -60,9 +60,10 @@ Visveswaraiah Technological University(VTU), India (September 2006 to June 2010)
 -Worked as an active member in the organising committee for tech festivals in the college.
 
 
-Other qualifications
+## Other qualifications
 
-Cetification in ISEB foundation level.
+Cetification in ISEB-ISTQB foundation level.
+International Software Testing Qualifications Board(ISTQB) certified tester.
 
 ## Experience
 
@@ -73,3 +74,16 @@ Good understanding and working experience in Software Development Life Cycle (SD
 Experience working in Agile environment (Scrum).
 
 ## Interests
+
+
+<div align="center">
+
+ <a href="https://github.com/Reenakoudi">
+ <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
+
+ <a href="https://www.linkedin.com/in/reena-koudi-39ab2722/">
+ <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
+
+ <a href="https://www.codewars.com/users/Reenakoudi">
+ <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
+</div>
