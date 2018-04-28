@@ -42,21 +42,24 @@ communicated to other team members and developers through frequent presentations
 
 ## Education
 
-Makers Academy (February 2018 to May 2018)
+#### Makers Academy (February 2018 to May 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A highly intensive 16-week software development bootcamp, focusing on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+• Test driven and behavior driven development, with  particular emphasis on pair programming  
+• Object-orientated programming and software design  
+• Agile methodologies  
+• Full stack web development  
+• XP values  
+• MVC framework patterns  
+• Ruby, Rails, JavaScript  
+• RSpec, Jasmine
 
-Visveswaraiah Technological University(VTU), India (September 2006 to June 2010)
 
--Bachelor of Engineering in Computer Science   
--Grade : First Class
+#### Visveswaraiah Technological University(VTU), India (September 2006 to June 2010)
+
+-Bachelor of Engineering in Computer Science  
+-Grade : First Class  
 -Worked as an active member in the organising committee for tech festivals in the college.
 
 
