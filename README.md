@@ -7,9 +7,10 @@
 <a href='#interests'>Interests</a> </p>
 
 
-I'm a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester. As a software tester, I have a good eye for detail,
-analytical and problem solving skills using which I would now like to build things through coding. I want to be a part of an innovative products development in which
-I can further expand my knowledge in Full-Stack software development and design.
+I'm an enthusiastic Full Stack Software Developer, who has had an amazing opportunity to immerse myself in the world of coding through Makers Academy's 16-week programming course.
+I have learnt the core concepts of programming and skill to rapidly pick up new languages and frameworks.
+
+As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for detail, analytical and problem solving skills using which I would now like to develop and design solutions that would change people's lives for the better. I am most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practises taught at Makers.
 
 
 
@@ -42,7 +43,8 @@ communicated to other team members and developers through frequent presentations
 
 ## Education
 
-#### Makers Academy (February 2018 to May 2018)
+#### Makers Academy  
+(February 2018 to May 2018)
 
 A highly intensive 16-week software development bootcamp, focusing on:
 
