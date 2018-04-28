@@ -44,7 +44,7 @@ communicated to other team members and developers through frequent presentations
 ## Education
 
 #### Makers Academy  
-(February 2018 to May 2018)
+(January 2018 to May 2018)
 
 A highly intensive 16-week software development bootcamp, focusing on:
 
@@ -66,10 +66,10 @@ A highly intensive 16-week software development bootcamp, focusing on:
 • Worked as an active member in the organising committee for tech festivals in the college.
 
 
-## Other qualifications
+## Achievements
 
-Cetification in ISEB-ISTQB foundation level.  
-International Software Testing Qualifications Board(ISTQB) certified tester.
+Cetification in ISEB-ISTQB foundation level.    
+
 
 ## Experience
 
