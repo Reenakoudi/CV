@@ -56,25 +56,27 @@ A highly intensive 16-week software development bootcamp, focusing on:
 • RSpec, Jasmine
 
 
-#### Visveswaraiah Technological University(VTU), India (September 2006 to June 2010)
+#### Visveswaraiah Technological University(VTU), India  
+(September 2006 to June 2010)
 
--Bachelor of Engineering in Computer Science  
--Grade : First Class  
--Worked as an active member in the organising committee for tech festivals in the college.
+• Bachelor of Engineering in Computer Science  
+• Grade : First Class  
+• Worked as an active member in the organising committee for tech festivals in the college.
 
 
 ## Other qualifications
 
-Cetification in ISEB-ISTQB foundation level.
+Cetification in ISEB-ISTQB foundation level.  
 International Software Testing Qualifications Board(ISTQB) certified tester.
 
 ## Experience
 
-SAP Labs India,Bangalore (February 2011 to February 2012)    
-Software Tester
-Regression testing of SAP ERP Modules named SAP Finance and Controlling(FICO).
-Good understanding and working experience in Software Development Life Cycle (SDLC)
-Experience working in Agile environment (Scrum).
+#### SAP Labs India, Bangalore  
+(February 2011 to February 2012)    
+Software Tester  
+Regression testing of SAP ERP Modules named SAP Finance and Controlling(FICO).  
+Good understanding and working experience in Software Development Life Cycle (SDLC)  
+Experience working in Agile environment (Scrum).  
 
 ## Interests
 
