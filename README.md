@@ -30,17 +30,13 @@ communicated to other team members and developers through frequent presentations
 
 ## Projects
 
-Project		        : ERP Finance(Finance- Controlling)
-SAP Module          : SAP FI-CO
-Project Description	: The SAP FI-CO Module main task is to do Planning. It facilitates coordination, monitoring and optimization
-of all processes in an organization. It includes the functions necessary for effective cost and revenue controlling. It is also
-called as management accounting and provides information for management decision-making.
-
-Project		        : ERP- Finance (Public Sector Management)
-SAP Module    	    : ERP-FIN-PSM
-Project Description	: The SAP FI-PSM Module has the capability of meeting all the accounting and financial needs of an organization
-related to Public sector. The PSM Module comprises several sub-modules as follows: Asset Accounting, Budget controls System, Material
-Management, Sales Order, Purchase Order and integration with Controlling and Web Services.
+| Project       | Summary       | Technologies  | Testing |
+| ------------- |---------------| --------------|---------|
+| nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
+| Notepad ([Github](https://github.com/Reenakoudi/Notepad))| Notepad application written and TDD'd in OO Javascript. Created own testing framework. | JavaScript, HTML/CSS  | Created testing framework |
+| Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
+| Airport ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
+| Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
 
 ## Education
 
