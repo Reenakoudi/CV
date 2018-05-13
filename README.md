@@ -12,9 +12,9 @@
 
 <a href="https://medium.com/@kreena92">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
-</div>
+</div>  
 
-<p align="center"> <a href='#projects'>Projects</a> |
+<p> <a href='#projects'>Projects</a> |
 <a href='#skills'>Skills</a> |
 <a href='#education'>Education</a> |
 <a href='#experience'>Experience</a> |  
