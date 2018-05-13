@@ -12,9 +12,9 @@
 
 <a href="https://medium.com/@kreena92">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
-</div>  
+</div>
 
-<p> <a href='#projects'>Projects</a> |
+<p align="center"> <a href='#projects'>Projects</a> |
 <a href='#skills'>Skills</a> |
 <a href='#education'>Education</a> |
 <a href='#experience'>Experience</a> |  
@@ -22,9 +22,9 @@
 
 
 I'm an enthusiastic Full Stack Software Developer, who has had an amazing opportunity to immerse myself in the world of coding through Makers Academy's 16-week programming course.
-I have learnt TDD to write better code and the skill to rapidly pick up new languages and frameworks.
+I have learnt TDD to write better code and the skills to rapidly pick up new languages and frameworks.
 
-As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for details, analytical and problem solving skills using which I would now like to develop and design solutions that would change people's lives for the better. I'm most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practices in software development.
+As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for details, analytical and problem solving skills using which I would now like to develop softwares that would change people's lives for the better. I'm most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practices in software development.
 
 
 
@@ -96,4 +96,6 @@ Regression testing of SAP ERP Modules named SAP Finance and Controlling(FICO).
 Good understanding and working experience in Software Development Life Cycle (SDLC)  
 Experience working in Agile environment (Scrum).  
 
-## Interests
+## Interests  
+• Yoga helps me to maintain body flexibility and fresh mind.  
+• I love reading about health and nutrition.
