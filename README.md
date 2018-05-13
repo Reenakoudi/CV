@@ -95,4 +95,7 @@ Experience working in Agile environment (Scrum).
 
  <a href="https://www.codewars.com/users/Reenakoudi">
  <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
+
+ <a href="https://medium.com/@kreena92">
+ <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
 </div>
