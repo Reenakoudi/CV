@@ -19,11 +19,14 @@ As a former software tester with a year of experience in the IT industry and a c
 
 | Project       | Summary       | Technologies  | Testing |
 | ------------- |---------------| --------------|---------|
+|ApexAir  
+([Github](https://github.com/Reenakoudi/ApexAir ))|  
+Final group project at Makers Academy to create an iOS App based on Augmented Reality(AR) to detect air pollution | Swift | XCTest |
+
 | nebula-bnb ([Github](https://github.com/Reenakoudi/nebula-bnb))| Group project to recreate AirBnb website | Javascript, HTML/CSS, MongoDB| Jasmine, Mocha, Chai, Zombie |
 | acebook-pinkfish ([Github](https://github.com/Reenakoudi/acebook-pinkfish))| Group project to recreate Facebook | Ruby on Rails, HTML/CSS  | RSpec |
 | Thermostat ([Github](https://github.com/Reenakoudi/JS--Thermostat)) | Implementation of thermostat in javascript| JavaScript, HTML/CSS, Weather API | Jasmine |
 | Airport   ([Github](https://github.com/Reenakoudi/Airport-Ruby)) | Airport Challenge implemented in Ruby. | Ruby | RSpec |
-| Final Project ([Github]( )) | Final group project at Makers Academy to create a web app. | ----- | ---- |
 
 ## Skills
 
