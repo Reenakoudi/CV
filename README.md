@@ -1,4 +1,18 @@
 <h2 align="center"> Reena Koudi </h2>
+<div align="center">
+
+<a href="https://github.com/Reenakoudi">
+<img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
+
+<a href="https://www.linkedin.com/in/reena-koudi-39ab2722/">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
+
+<a href="https://www.codewars.com/users/Reenakoudi">
+<img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
+
+<a href="https://medium.com/@kreena92">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
+</div>
 
 <p align="center"> <a href='#projects'>Projects</a> |
 <a href='#skills'>Skills</a> |
@@ -55,7 +69,7 @@ A highly intensive 16-week software development bootcamp, focusing on:
 • XP values  
 • MVC framework patterns  
 • Ruby, Rails, JavaScript  
-• RSpec, Jasmine
+• RSpec, Jasmine  
 • Version control with Git, Github
 
 
@@ -83,19 +97,3 @@ Good understanding and working experience in Software Development Life Cycle (SD
 Experience working in Agile environment (Scrum).  
 
 ## Interests
-
-
-<div align="center">
-
- <a href="https://github.com/Reenakoudi">
- <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-32.png" hspace="30" ></a>
-
- <a href="https://www.linkedin.com/in/reena-koudi-39ab2722/">
- <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-32.png" hspace="30"></a>
-
- <a href="https://www.codewars.com/users/Reenakoudi">
- <img src="https://cdn0.iconfinder.com/data/icons/a-s-social-set/256/codewars-32.png" hspace="30"></a>
-
- <a href="https://medium.com/@kreena92">
- <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Medium-32.png" hspace="30"></a>
-</div>
