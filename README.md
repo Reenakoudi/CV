@@ -24,7 +24,7 @@
 I'm an enthusiastic Full Stack Software Developer, who has had an amazing opportunity to immerse myself in the world of coding through Makers Academy's 16-week programming course.
 I have learnt TDD to write better code and the skills to rapidly pick up new languages and frameworks.
 
-As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for details, analytical and problem solving skills using which I would now like to develop softwares that would change people's lives for the better. I'm most productive when working with passionate technologists in an encouraging environment. I'm looking for somewhere I can learn more and build on the TDD and Agile practices in software development.
+As a former software tester with a year of experience in the IT industry and a certified ISEB-ISTQB tester, I have a good eye for details, analytical and problem solving skills using which I would now like to develop softwares that would change people's lives for the better. I'm most productive when working with passionate technologists in an encouraging environment. I'm looking to work in diverse and innovative environment where I can learn and build on the TDD and Agile practices in software development.
 
 
 
@@ -41,10 +41,13 @@ As a former software tester with a year of experience in the IT industry and a c
 
 ## Skills
 
+#### Fast and a constant learner  
+
+I have a never ending curiosity to learn new things and technologies. Whilst at Makers, 12 weeks of intense bootcamp I've managed to rapidly learn and implement projects using new technologies and testing frameworks. In our final project to build an iOS app based on Augmented Reality, I went on to pick up an entirely new language called Swift and a tool called Xcode in a span of two weeks of time.
+
 #### Analysis
 
-I have worked on analyzing data generated from execution of automated scripts to understand the particular behaviour of an application.
-Ability to analyze the given business situation and judge all the possible scenarios.
+As a software tester, I have worked on analyzing data generated from execution of automated scripts to understand the particular behaviour of an application. Ability to analyze the given business situation and judge all the possible scenarios. At Makers, I've learnt how to implement this skill into coding, breaking the problem down in small pieces using tools like flow charts, diagrams and domain models making a representation of the problem and the systematic approach.
 
 
 #### Communication
@@ -97,5 +100,5 @@ Good understanding and working experience in Software Development Life Cycle (SD
 Experience working in Agile environment (Scrum).  
 
 ## Interests  
-• Yoga helps me to maintain body flexibility and fresh mind.  
-• I love reading about health and nutrition.
+• I'm a yoga enthusiast and it helps me to maintain my body strength and fresh mind.  
+• I love to read about health, food and nutrition.
