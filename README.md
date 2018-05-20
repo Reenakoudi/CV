@@ -43,7 +43,7 @@ As a former software tester with a year of experience in the IT industry and a c
 
 #### Fast and a constant learner  
 
-I have a never ending curiosity to learn new things and technologies. Whilst at Makers, 12 weeks of intense bootcamp I've managed to rapidly learn and implement projects using new technologies and testing frameworks. In our final project to build an iOS app based on Augmented Reality, I went on to pick up an entirely new language called Swift and a tool called Xcode in a span of two weeks of time.
+I have a never ending curiosity to learn new things and technologies. Whilst at Makers, 16 weeks of intense bootcamp I've managed to rapidly learn and implement projects using new technologies and testing frameworks. In our final project to build an iOS app based on Augmented Reality, I went on to pick up an entirely new language called Swift and a tool called Xcode in a span of two weeks of time.
 
 #### Analysis
 
